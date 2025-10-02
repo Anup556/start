@@ -1,2 +1,2 @@
 # start
-thi sis my repo
+this is my repo
